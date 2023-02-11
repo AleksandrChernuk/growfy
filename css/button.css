@@ -22,9 +22,9 @@
   }
 }
 
-.main__button_dark {
+.button_dark {
   background-color: rgba(129, 129, 139, 0.2);
 }
-.main__button_dark:hover {
+.button_dark:hover {
   background-color: rgba(20, 213, 33, 0.2);
 }
